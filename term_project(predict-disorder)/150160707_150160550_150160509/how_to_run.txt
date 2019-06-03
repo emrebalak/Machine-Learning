@@ -1,0 +1,4 @@
+How to run this program?
+	1) First of all, download python3 and its package manager(pip).
+	2) Install necessary libraries by typing into command line "$pip3 install requirements.txt"
+	3) Run "$python3 main.py" from command line.
